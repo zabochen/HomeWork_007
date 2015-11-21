@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- TITLE APP-->
+    <string name="app_name">Weather In Cherkasy</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="alert_dialog">Enable Internet Connection !</string>
+    <string name="positive_button">Ok</string>
+</resources>
